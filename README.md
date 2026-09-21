@@ -118,21 +118,7 @@ used in real-world applications.
 
 ## 🚀 Featured Projects
 
-### 🤖 JARVIS AI Assistant
 
-> A personal AI voice assistant designed to provide
-> natural language interaction and AI-powered assistance.
-
-**Focus:**
-- AI Agent
-- Voice Assistant
-- Natural Language Processing
-- Speech Recognition
-- Text-to-Speech
-- AI Model Integration
-- Computer Automation
-
----
 
 ### 💰 AI Finance Analyzer
 
