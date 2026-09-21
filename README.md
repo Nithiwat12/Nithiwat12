@@ -1,4 +1,3 @@
-
 <!-- ===================== -->
 <!--        HEADER         -->
 <!-- ===================== -->
@@ -63,7 +62,7 @@ used in real-world applications.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,php,java,python&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,php,java,kotlin,python&theme=dark" alt="Programming Languages"/>
 
 </div>
 
@@ -71,15 +70,15 @@ used in real-world applications.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="Web Development"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="Web and Backend Development"/>
 
 </div>
 
-### 🗄️ Database
+### 🗄️ Database & Backend Services
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="Database and Backend Services"/>
 
 </div>
 
@@ -89,19 +88,51 @@ used in real-world applications.
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="AI and Data Science"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/ANN-Artificial%20Neural%20Network-7C3AED?style=for-the-badge" alt="ANN"/>
+
+<img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-7C3AED?style=for-the-badge" alt="CNN"/>
+
+<img src="https://img.shields.io/badge/Object%20Detection-YOLO-7C3AED?style=for-the-badge" alt="Object Detection"/>
+
+<img src="https://img.shields.io/badge/AI%20Agent-Agentic%20AI-7C3AED?style=for-the-badge" alt="AI Agent"/>
+
 </div>
 
-### ⚙️ Tools & Environment
+### 🧰 Tools & Environment
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" alt="Tools and Environment"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro"/>
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 JARVIS AI Assistant
+
+> A personal AI voice assistant designed to provide
+> natural language interaction and AI-powered assistance.
+
+**Focus:**
+- AI Agent
+- Voice Assistant
+- Natural Language Processing
+- Speech Recognition
+- Text-to-Speech
+- AI Model Integration
+- Computer Automation
+
+---
 
 ### 💰 AI Finance Analyzer
 
@@ -112,6 +143,7 @@ used in real-world applications.
 - Data processing
 - Data quality checking
 - Financial data analysis
+- Machine Learning
 - Web application development
 
 ---
@@ -136,9 +168,12 @@ used in real-world applications.
 
 **Focus:**
 - Computer Vision
+- CNN
 - Object Detection
 - Dataset Preparation
-- Model Training and Evaluation
+- Data Annotation
+- Model Training
+- Model Evaluation
 
 ---
 
@@ -146,9 +181,9 @@ used in real-world applications.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nithiwat12&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B18&title_color=A78BFA&icon_color=C084FC" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nithiwat12&show_icons=true&hide_border=true&bg_color=0D0B18&title_color=A78BFA&icon_color=C084FC&text_color=FFFFFF&cache_seconds=86400" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithiwat12&layout=compact&theme=radical&hide_border=true&bg_color=0D0B18&title_color=A78BFA" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithiwat12&layout=compact&hide_border=true&bg_color=0D0B18&title_color=A78BFA&text_color=FFFFFF&cache_seconds=86400" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -158,7 +193,7 @@ used in real-world applications.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=nithiwat12&theme=midnight-purple&hide_border=true&background=0D0B18" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=nithiwat12&theme=midnight-purple&hide_border=true&background=0D0B18&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" height="180" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -169,6 +204,9 @@ used in real-world applications.
 - Machine Learning Fundamentals
 - Data Analysis & Statistics
 - Computer Vision
+- Deep Learning
+- Object Detection
+- AI Agent Development
 - Backend API Development
 - Database Design
 - AI-powered Applications
@@ -179,7 +217,7 @@ used in real-world applications.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/%E0%B8%99%E0%B8%B4%E0%B8%90%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%B2%E0%B8%97-1077a2436">
+<a href="https://www.linkedin.com/in/%E0%B8%99%E0%B8%B4%E0%B8%90%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B8%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%B2%E0%B8%97-1077a2436">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
